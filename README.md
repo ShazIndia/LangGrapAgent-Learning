@@ -1,13 +1,3 @@
----
-
-# 🧪 Agentic CI Analyzer
-
-`gemini_agent.py` is a Python tool that integrates GitHub Actions and Google's Gemini API to detect, analyze, and suggest fixes for failed CI workflows using natural language intelligence.
-
-![Graph Overview](pipeline_graph.png)
-
----
-
 ## 🚀 Features
 
 * 🔍 Automatically fetches failed GitHub Actions CI runs.
